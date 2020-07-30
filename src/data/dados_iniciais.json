@@ -1,0 +1,172 @@
+{
+  "categorias": [
+    {
+      "titulo": "Educacional",
+      "cor": "#5749db",
+      "link_extra": {
+        "text": "História da arte e discussões filosóficas sobre arte"
+      },
+      "videos": [
+        {
+          "titulo": "The Definition of Art",
+          "url": "https://www.youtube.com/watch?v=b2VpNx5ZxSA"
+        },
+        {
+          "titulo": "LA ART SHOW 2020 Walk Around",
+          "url": "https://www.youtube.com/watch?v=zcA2B41Wym8"
+        },
+        {
+          "titulo": "The Death of Socrates: How To Read A Painting",
+          "url": "https://www.youtube.com/watch?v=rKhfFBbVtFg"
+        },
+        {
+          "titulo": "Art That Was Never Finished",
+          "url": "https://www.youtube.com/watch?v=-VDVo9akCiQ"
+        },
+        {
+          "titulo": "How Art Arrived At Jackson Pollock",
+          "url": "https://www.youtube.com/watch?v=Q1irNBh2qg8"
+        },
+        {
+          "titulo": "HISTORY OF IDEAS - Art",
+          "url": "https://www.youtube.com/watch?v=z7ECzduUWx0"
+        },
+        {
+          "titulo": "Arte em quarentena | Camarote.21",
+          "url": "https://www.youtube.com/watch?v=b-xvUvusaZQ"
+        }     
+      ]
+    },
+    {
+      "titulo": "Tutorial",
+      "cor": "#a970f7",
+      "link_extra": {
+        "text": "Tutoriais de pintura, dioramas e desenho"
+      },
+      "videos": [
+        {
+          "titulo": "Easy Watercolor Painting Ideas for Beginners Step by Step",
+          "url": "https://www.youtube.com/watch?v=3kojEoKgrTY"
+        },
+        {
+          "titulo": "Learn To Draw #01 - Sketching Basics + Materials",
+          "url": "https://www.youtube.com/watch?v=ewMksAbgdBI"
+        },
+        {
+          "titulo": "Rainbow String Pull Acrylic Pour.",
+          "url": "https://www.youtube.com/watch?v=X-sIwune0rE"
+        },
+        {
+          "titulo": "How to Make Hourglass Diorama | Resin Art | Wire Tree",
+          "url": "https://www.youtube.com/watch?v=lep6wm2yv-Y"
+        }, 
+        {
+          "titulo": "Desenhe como um arquiteto - Dicas Essenciais",
+          "url": "https://www.youtube.com/watch?v=24rnfO8s0hU"
+        }, 
+        {
+          "titulo": "Rainbow Willow Tree Q Tip Acrylic Painting for Beginners tutorial | TheArtSherpas",
+          "url": "https://www.youtube.com/watch?v=x4zz2yH1bLE"
+        }, 
+        {
+          "titulo": "THE SECRET TO DRAWING HAIR THAT AIN'T STRAIGHT?! | Filling a Spread in my Sketchbook",
+          "url": "https://www.youtube.com/watch?v=JSR6rpzDuTs"
+        }, 
+        {
+          "titulo": "Bob Ross - In the Midst of Winter ",
+          "url": "https://www.youtube.com/watch?v=qx2IsmrCs3c"
+        }
+      ]
+    },
+    {
+      "titulo": "Arte de rua",
+      "cor": "#db77ac",
+      "videos": [
+        {
+          "titulo": "Arte de Rua Moderna ▶ 2",
+          "url": "https://www.youtube.com/watch?v=UyPwQzLOhUU"
+        },
+        {
+          "titulo": "3d Chalk Art Street Painting",
+          "url": "https://www.youtube.com/watch?v=XtCEe8ssRVc"
+        },
+        {
+          "titulo": "THIS STREET ART IS ABSOLUTELY BREATH-TAKING",
+          "url": "https://www.youtube.com/watch?v=S3NUEgfadgU"
+        },
+        {
+          "titulo": "Sorprendente Arte Callejero Alrededor Del Mundo",
+          "url": "https://www.youtube.com/watch?v=qI6dKI7kbQs"
+        }
+      ]
+    },
+    {
+      "titulo": "Dioramas",
+      "cor": "#db2c4d",
+      "videos": [
+        {
+          "titulo": "Santuário japonês esquecido e diorama guardião",
+          "url": "https://www.youtube.com/watch?v=C3SXMJM3tks"
+        },
+        {
+          "titulo": "Se um arquiteto vê o filme Parasite?",
+          "url": "https://www.youtube.com/watch?v=6AkClqxcLcg"
+        },
+        {
+          "titulo": "I made this magical world inside my bookshelf (a book nook!)",
+          "url": "https://www.youtube.com/watch?v=n4ZpkuMC29w"
+        },
+        {
+          "titulo": "How to make Amazing House with bricks - Mini Model",
+          "url": "https://www.youtube.com/watch?v=psAD0IIRik4"
+        }
+      ]
+    },
+    {
+      "titulo": "Técnicas",
+      "cor": "#f78e3e",
+      "link_extra": {
+        "text": "Técnicas diversas"
+      },
+      "videos": [
+        {
+          "titulo": "Fluid Art!! 369 Strings at Once!! Acrylic Pouring DRAGON SPIN!!",
+          "url": "https://www.youtube.com/watch?v=dMLPw6DGHAc"
+        },
+        {
+          "titulo": "A técnica do Buraco Negro - Pintura acrílica com arte fluida",
+          "url": "https://www.youtube.com/watch?v=EwyucgqKDuE"
+        },
+        {
+          "titulo": "Amazing Art Skills Talented People #26 Creative Ideas That Are At Another Level! Satisfying Art Work",
+          "url": "https://www.youtube.com/watch?v=omN9HOru0eE"
+        },
+        {
+          "titulo": "String Pulling with Acrylics!! 006 STRINGS Wigglz Art Fluid Art Beginners Technique!",
+          "url": "https://www.youtube.com/watch?v=73iPyKE0vI0"
+        },
+        {
+          "titulo": "Arte 3D Desenho Crocodilo, Ilusão Visual",
+          "url": "https://www.youtube.com/watch?v=guZeAjdYw_c"
+        },
+        {
+          "titulo": "Pintura acrílica | cenário de cachoeira ao luar | Tutorial de pintura para iniciantes",
+          "url": "https://www.youtube.com/watch?v=keT5vYBpmhU"
+        },
+        {
+          "titulo": "Pintura acrílica | Gotas de água pintura | Pintura acrílica passo a passo #140",
+          "url": "https://www.youtube.com/watch?v=y0n9rLQzFV0"
+        },
+        {
+          "titulo": "Fluid Painting! Dirty ICE CUBES! Acrylic Pour Painting ~ Fluid Art ~ Wigglz Art",
+          "url": "https://www.youtube.com/watch?v=aO9yxSvmZGU"
+        },
+        {
+          "titulo": "Daily challenge #94 / Acrylic / Set of 3 Landscape Paintings",
+          "url": "https://www.youtube.com/watch?v=ptQlYroiTbA"
+        }
+      ]
+    }
+  ]
+}
+
