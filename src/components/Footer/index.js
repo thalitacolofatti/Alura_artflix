@@ -15,8 +15,11 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
-      <p>
-        por Thalita Colofatti 
+      <p>por
+        {' '}
+        <a href="https://github.com/thalitacolofatti/Alura_artflix">
+          Thalita Colofatti 
+        </a>
       </p>
     </FooterBase>
   );

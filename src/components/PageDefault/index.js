@@ -7,9 +7,18 @@ const Main = styled.main`
     background-color: var(--grayDark);
     color: var(--white);
     flex: 1;
-    padding-top: 50px;
+    padding-top: 110px;
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 30px;
+
+    a {
+        color: var(--primary);
+    }
+
+    @media (max-width: 800px) {
+        padding-top: 50px;
+    }
 `;
 
 function PageDefault({ children }) {
