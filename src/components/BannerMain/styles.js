@@ -4,8 +4,10 @@ export const BannerMainContainer = styled.section`
   background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
   background-position: center;
   background-size: cover;
-  color: var(--white);
+  color: #fff;
   height: 80vh;
+  position: relative;
+
   @media (max-width: 800px) {
     height: auto;
     min-height: 50vh;
@@ -25,10 +27,12 @@ export const BannerMainContainer = styled.section`
   &:before {
     top: 0;
     height: 100%;
+    background: rgba(0,0,0,0.5);
   }
 
   &:after {
     bottom: 0;
+    background: linear-gradient(0deg, #000000 0%, transparent 100%);
   }
 `;
 
@@ -57,6 +61,8 @@ ContentAreaContainer.Item = styled.div`
 `;
 
 ContentAreaContainer.Category = styled.h1`
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
   font-weight: normal;
   font-size: 60px;
   line-height: 70px;
@@ -96,6 +102,7 @@ ContentAreaContainer.Title = styled.h2`
 
 
 export const WatchButton = styled.button`
+  font-family: 'Roboto', sans-serif;
   box-sizing: border-box;
   background-color: var(--white);
   border: 1px solid transparent;

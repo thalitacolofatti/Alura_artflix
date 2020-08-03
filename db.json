@@ -1,16 +1,292 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Educacional",
-            "descricao": "História da arte e outros documentários",
-            "cor": "#5749db"
-        },
-        {
-            "id": 2,
-            "nome": "Tutorial",
-            "descricao": "Tutoriais de pintura, dioramas e desenho",
-            "cor": "#a970f7"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Educacional",
+      "cor": "#5749db",
+      "link_extra": {
+        "descricao": "História da arte e discussões filosóficas sobre arte"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Tutorial",
+      "cor": "#a970f7",
+      "link_extra": {
+        "descricao": "Tutoriais de pintura, dioramas e desenho"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Arte de rua",
+      "cor": "#db77ac"
+    },
+    {
+      "id": 4,
+      "titulo": "Dioramas",
+      "cor": "#db2c4d"
+    },
+    {
+      "id": 5,
+      "titulo": "Técnicas",
+      "cor": "#f78e3e",
+      "link_extra": {
+        "descricao": "Técnicas diversas"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "The Definition of Art",
+      "url": "https://www.youtube.com/watch?v=b2VpNx5ZxSA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "LA ART SHOW 2020 Walk Around",
+      "url": "https://www.youtube.com/watch?v=zcA2B41Wym8"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "The Death of Socrates: How To Read A Painting",
+      "url": "https://www.youtube.com/watch?v=rKhfFBbVtFg"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Art That Was Never Finished",
+      "url": "https://www.youtube.com/watch?v=-VDVo9akCiQ"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "How Art Arrived At Jackson Pollock",
+      "url": "https://www.youtube.com/watch?v=Q1irNBh2qg8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "HISTORY OF IDEAS - Art",
+      "url": "https://www.youtube.com/watch?v=z7ECzduUWx0"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Arte em quarentena | Camarote.21",
+      "url": "https://www.youtube.com/watch?v=b-xvUvusaZQ"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Easy Watercolor Painting Ideas for Beginners Step by Step",
+      "url": "https://www.youtube.com/watch?v=3kojEoKgrTY"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Learn To Draw #01 - Sketching Basics + Materials",
+      "url": "https://www.youtube.com/watch?v=ewMksAbgdBI"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Rainbow String Pull Acrylic Pour.",
+      "url": "https://www.youtube.com/watch?v=X-sIwune0rE"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "How to Make Hourglass Diorama | Resin Art | Wire Tree",
+      "url": "https://www.youtube.com/watch?v=lep6wm2yv-Y"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Desenhe como um arquiteto - Dicas Essenciais",
+      "url": "https://www.youtube.com/watch?v=24rnfO8s0hU"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Rainbow Willow Tree Q Tip Acrylic Painting for Beginners tutorial | TheArtSherpas",
+      "url": "https://www.youtube.com/watch?v=x4zz2yH1bLE"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "THE SECRET TO DRAWING HAIR THAT AIN'T STRAIGHT?! | Filling a Spread in my Sketchbook",
+      "url": "https://www.youtube.com/watch?v=JSR6rpzDuTs"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Bob Ross - In the Midst of Winter ",
+      "url": "https://www.youtube.com/watch?v=qx2IsmrCs3c"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Arte de Rua Moderna ▶ 2",
+      "url": "https://www.youtube.com/watch?v=UyPwQzLOhUU"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "3d Chalk Art Street Painting",
+      "url": "https://www.youtube.com/watch?v=XtCEe8ssRVc"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "THIS STREET ART IS ABSOLUTELY BREATH-TAKING",
+      "url": "https://www.youtube.com/watch?v=S3NUEgfadgU"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Sorprendente Arte Callejero Alrededor Del Mundo",
+      "url": "https://www.youtube.com/watch?v=qI6dKI7kbQs"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Santuário japonês esquecido e diorama guardião",
+      "url": "https://www.youtube.com/watch?v=C3SXMJM3tks"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Se um arquiteto vê o filme Parasite?",
+      "url": "https://www.youtube.com/watch?v=6AkClqxcLcg"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "I made this magical world inside my bookshelf (a book nook!)",
+      "url": "https://www.youtube.com/watch?v=n4ZpkuMC29w"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "How to make Amazing House with bricks - Mini Model",
+      "url": "https://www.youtube.com/watch?v=psAD0IIRik4"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Fluid Art!! 369 Strings at Once!! Acrylic Pouring DRAGON SPIN!!",
+      "url": "https://www.youtube.com/watch?v=dMLPw6DGHAc"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "A técnica do Buraco Negro - Pintura acrílica com arte fluida",
+      "url": "https://www.youtube.com/watch?v=EwyucgqKDuE"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Amazing Art Skills Talented People #26 Creative Ideas That Are At Another Level! Satisfying Art Work",
+      "url": "https://www.youtube.com/watch?v=omN9HOru0eE"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "String Pulling with Acrylics!! 006 STRINGS Wigglz Art Fluid Art Beginners Technique!",
+      "url": "https://www.youtube.com/watch?v=73iPyKE0vI0"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Arte 3D Desenho Crocodilo, Ilusão Visual",
+      "url": "https://www.youtube.com/watch?v=guZeAjdYw_c"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Pintura acrílica | cenário de cachoeira ao luar | Tutorial de pintura para iniciantes",
+      "url": "https://www.youtube.com/watch?v=keT5vYBpmhU"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "Pintura acrílica | Gotas de água pintura | Pintura acrílica passo a passo #140",
+      "url": "https://www.youtube.com/watch?v=y0n9rLQzFV0"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Fluid Painting! Dirty ICE CUBES! Acrylic Pour Painting ~ Fluid Art ~ Wigglz Art",
+      "url": "https://www.youtube.com/watch?v=aO9yxSvmZGU"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "Daily challenge #94 / Acrylic / Set of 3 Landscape Paintings",
+      "url": "https://www.youtube.com/watch?v=ptQlYroiTbA"
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoria": 1,
+      "id": 32
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoria": 1,
+      "id": 33
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoria": 1,
+      "id": 34
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoria": 1,
+      "id": 35
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoria": 1,
+      "id": 36
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoria": 1,
+      "id": 37
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoria": 1,
+      "id": 38
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoriaId": 1,
+      "id": 39
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoriaId": 1,
+      "id": 40
+    },
+    {
+      "titulo": "Video Padrão",
+      "url": "https://www.youtube.com/watch?v=FwPuyKwNtD4",
+      "categoriaId": 2,
+      "id": 41
+    }
+  ]
 }

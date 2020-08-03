@@ -1,31 +1,35 @@
 import React from 'react';
+import styled, { css } from 'styled-components';
+
 import Menu from '../Menu';
 import Footer from '../Footer';
-import styled from 'styled-components';
 
 const Main = styled.main`
     background-color: var(--grayDark);
     color: var(--white);
     flex: 1;
-    padding-top: 110px;
+    padding-top: 94px;
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 30px;
+    ${({ paddingAll }) => css`
+        padding: ${paddingAll};
+    `}
 
     a {
         color: var(--primary);
     }
 
     @media (max-width: 800px) {
-        padding-top: 50px;
+        padding-top: 40px;
     }
 `;
 
-function PageDefault({ children }) {
+function PageDefault({ children, paddingAll }) {
     return (
         <>
             <Menu />
-                <Main>
+                <Main paddingAll={paddingAll}>
                     {children}
                 </Main>
             <Footer />

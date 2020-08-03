@@ -9,7 +9,7 @@ function Footer() {
         <img style={{height: '40px'}} src={Logo} alt="Logo Artflix" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Criado durante a
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
