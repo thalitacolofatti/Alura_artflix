@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Educacional",
+            "descricao": "História da arte e outros documentários",
+            "cor": "#5749db"
+        },
+        {
+            "id": 2,
+            "nome": "Tutorial",
+            "descricao": "Tutoriais de pintura, dioramas e desenho",
+            "cor": "#a970f7"
+        }
+    ]
+}
